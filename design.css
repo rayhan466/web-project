@@ -1,0 +1,412 @@
+*{
+	margin:0;
+	padding:0;
+	
+	
+}
+body{
+	background:#FFFFFF;
+	
+}
+
+img{
+	width: 100%;
+    height: auto;
+    /* padding: 10px; */
+    margin: 13px -11px;
+}
+#left{
+	width: 300px;
+    float: left;
+    display: block;
+    
+	
+}
+#mainwrapper{
+	width: 100%;
+    background: #FFCE23;
+    display: flex;
+	border-bottom:1px solid #FFFFFF;
+}
+
+
+#wrapper{
+	width:1170px;
+	margin:0 auto;
+	background:none;
+}
+#right{
+	    float: right;
+    margin-top: 18px;
+	display:block;
+	background:none;
+}
+
+#right ul{
+	list-style:none;
+	display:block;
+	
+}
+#right ul li{
+	float:left;
+	
+}
+#right ul li a{
+	text-decoration: none;
+    display: inline-block;
+    padding: 25px 25px;
+    color: #000;
+    font-weight: bold;
+}
+#right ul li a:hover{
+	color:#E44221;
+	transition:all 0.3s ease;
+}
+
+
+
+#navi{
+	width:100%;
+	background:#242424;
+	
+}
+#list{
+	width: 1000px;
+    background: none;
+    margin-left: 52px;
+}
+
+#list ul{
+	display:flex;
+	margin:0;
+	padding:0;
+	list-style:none;
+}
+#list ul li{
+	float:left;
+	
+}
+
+#list ul li a{
+	color:white;
+	display:inline-block;
+	padding:10px 7px;
+}
+
+#list ul li a:hover{
+	color:#D8E5F2;
+	
+}
+
+.box{
+	width: 100%;
+    background: #C22E1F;
+    height: 139px;
+	
+}
+#middle{
+	    width: 800px;
+    margin: 25px 191px;
+    display: inline-block;
+    padding: 20px;
+}
+#middle h2{
+	color: white;
+	text-align: center;
+	font-size: 35px;
+	font-family: arial;
+}
+
+#color{
+	color:#FFCE23;
+	
+}
+
+#body{
+	width:100%;
+	
+	
+	
+}
+#content{
+	    width: 700px;
+    height: 100%;
+    background: #F6F7F7;
+    float: left;
+    padding: 43px 55px;
+}
+.computer{
+	    margin-left: 2px;
+	
+}
+
+
+
+.side{
+	width:400px;
+	float:right;
+	
+}
+#top_10{
+	margin-bottom: 109px;
+    margin-top: 50px;
+	
+}
+#top_10 h1{
+	font-size: 40px;
+    font-family: arial;
+	
+}
+
+.parag p{
+	line-height: 28px;
+    font-size: 20px;
+    color: #494e4e;
+    text-align: justify;
+	
+}
+
+
+.parag {
+    margin-left: -10px;
+	margin-top:40px;
+}
+
+.less{
+	margin-top:30px;
+	
+}
+}
+.less h1{
+	
+	
+}
+
+#yellow{
+	margin-top:50px;
+	
+}
+
+.prag_2{
+	margin-left: -10px;
+	margin-top:40px;
+}
+.prag_2 p{
+	line-height: 28px;
+    font-size: 20px;
+    color: #494e4e;
+    text-align: justify;
+	
+}
+
+#contrast{
+	margin-top:30px;
+	
+}
+
+.parag_3{
+	margin-top:40px;
+	
+}
+
+
+.parag_3 p{
+	line-height: 28px;
+    font-size: 20px;
+    color: #494e4e;
+    text-align: justify;
+	
+}
+
+
+
+
+
+#open{
+	margin-top:50px;
+	
+}
+
+#design{
+	margin-top:30px;
+	
+}
+
+#open_4{
+	margin-top:50px;
+	
+}
+
+.parag_4{
+	margin-top:40px;
+	
+}
+.parag_4 p{
+	line-height: 28px;
+    font-size: 20px;
+    color: #494e4e;
+    text-align: justify;
+	
+	
+}
+.comment_option{
+	margin-top:50px;
+	
+	
+}
+
+
+#comment{
+    float: left;
+    font-weight: bold;
+    font-size: 21px;
+    color: #393939;
+}
+
+
+#option{
+	width: 122px;
+    float: right;
+}
+
+#option select{
+	    padding: 6px 0;
+	
+}
+#sort{
+	float:right;
+	font-size: 23px;
+	color: #66696F;
+}
+
+
+.wrappe_comment {
+       display: flex;
+    margin-top: 117px;
+    padding: 25px 0px;
+    border-top: 1px solid #eae9e9;
+    border-bottom: 1px solid #eae9e9;
+}
+
+
+.negative{
+	    width: 70px;
+    float: left;
+    height: 70px;
+}
+
+.negative img{
+	width:100%;
+	height:100%;
+	margin-top: -1px;
+}
+
+#text_area{
+	width: 628px;
+	height: 83px;
+	float: ridght;
+	float: left;
+	
+}
+div#small {
+    display: flex;
+}
+
+#small_face{
+width:36px;
+height:36px;
+float:left;
+		
+}
+#small_face img{
+	width:100%;
+	height:100%;
+}
+#plagin{
+	float: left;
+    margin-top: 19px;
+}
+#plagin a{
+	text-decoration: none;
+    color: #5570A6;
+    font-size: 17px;
+}
+#plagin a:hover{
+	color:#5570A6;
+	text-decoration:underline;
+}
+.consultant {
+           display: flex;
+    margin-top: 50px;
+    background: #E9EAEB;
+    padding: 15px;
+    border-top: 13px solid #CCCCCC;
+
+}
+
+.heading{
+width: 663px;
+float:left;
+	
+
+}
+
+.heading a{
+	display:inline-block;
+	 text-decoration:none;  
+	 color: #474747;
+}
+
+.heading a:hover{
+	color:#F15D22;
+	
+}
+
+
+
+
+
+
+
+.first{
+	width:36px;
+	height:36px;
+	float:right;
+	
+}
+
+.second{
+   width: 44px;
+    float: right;
+    margin-top: -3px;
+	
+}
+
+.shohel{
+	    width: 100px;
+    float: left;
+    margin-top: -9px;
+    background: #E9EAEB;
+    margin-left: 12px;
+}
+
+
+.describe{
+	background:#E9EAEB;
+	padding:25px;
+	 border-bottom: 13px solid #CCCCCC;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
